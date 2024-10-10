@@ -1,6 +1,17 @@
 {
   "durov": [
     {
+      "date": "10/10/2024",
+      "tasks": [
+        {
+          "choice_1": 4,
+          "choice_2": 3,
+          "choice_3": 2,
+          "choice_4": 1
+        }
+      ]
+    },
+    {
       "date": "09/10/2024",
       "tasks": [
         {
